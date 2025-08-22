@@ -1,0 +1,6 @@
+# FLIP/config/flip_with_chemflow.yaml
+N: 529
+min_dist: 8
+keep_uniform_ratio: 0.15
+temperature: 0.7
+img_size: 256

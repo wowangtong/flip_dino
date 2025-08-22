@@ -1,0 +1,11 @@
+# FLIP/config/chemflow/selector.yaml
+img_size: 256
+patch_size: 16
+d_model: 768
+d_lang: 4096
+heads: 4
+use_language: true
+N: 529
+min_dist: 8
+keep_uniform_ratio: 0.15
+temperature: 0.7
